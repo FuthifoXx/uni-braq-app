@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '/braqUni.png';
 import PageLinks from '../links/PageLinks';
-import SocialLinks from '../links/socialLinks';
+import SocialLinks from '../links/SocialLinks';
 const Navbar = () => {
   return (
     <nav className="navbar">

@@ -16,16 +16,6 @@ function ServiceCards() {
                 <h4>{title}</h4>
               </div>
               <p>{info}</p>
-              {/* <div className="tour-footer">
-                      <p>
-                        <span>
-                          <i className="fas fa-map"></i>
-                        </span>{' '}
-                        china
-                      </p>
-                      <p>6 days</p>
-                      <p>from $2100</p>
-                    </div> */}
             </div>
           </article>
         );
